@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 💻 I’m a **Software Developer** passionate about creating innovative solutions and writing clean, efficient code.  
 - 🎮 In my free time, I enjoy **gaming** and exploring **new technologies**.  
 - 🌍 Based in **Tunisia**.  
-- 📚 Always learning and currently focusing on [Current Skill or Technology].
+- 📚 Always learning and currently focusing on **IT**.
 
 ## 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
